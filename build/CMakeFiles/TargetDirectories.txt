@@ -1,0 +1,3 @@
+/home/polina/Prog/obfus/build/CMakeFiles/rebuild_cache.dir
+/home/polina/Prog/obfus/build/CMakeFiles/edit_cache.dir
+/home/polina/Prog/obfus/build/CMakeFiles/zpid_1.dir

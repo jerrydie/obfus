@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include "df40940sdvcv__dfnids.hpp"
-#include "hide_strings.cpp"
+#include "fbbcxn4g43xvc.cpp"
 
 #define sojdawod324sv(dnkc38z8ej, xuibsk38247_jbh) constexpr auto dnkc38z8ej = fdjvnseol2945jivd932::djvnldf_349sidckn::dsmlcsi823_sdhn3<fdjvnseol2945jivd932::djvnldf_349sidckn::lsicnowi28kc_skn2(xuibsk38247_jbh)>(xuibsk38247_jbh)
 
@@ -29,7 +29,6 @@ int main()
 		else
                	std::cout << rb4336578.dkjxvn93r03_38e();
 	}
-	
 	
 }
 
